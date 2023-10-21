@@ -1,4 +1,7 @@
 Test Case numarul 1
 Descriere:Eroare la login
 Priority:Low
-Device:
+Device:Windows
+
+Test Csase numarul 2
+Descriere: Gata
