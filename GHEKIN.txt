@@ -1,0 +1,5 @@
+Utilizatorul vede pagina de urmarire status
+Scenario 1:Utilizatorul vede pagina de urmarire status
+Given: Utilizatorul se afla pe pagina de comenzii
+When: Utilizatorul da click pe unul din produse
+Then: Utilizatorul ar trebui sa fie re-directionat catre pagina de urmarire a comenzii
